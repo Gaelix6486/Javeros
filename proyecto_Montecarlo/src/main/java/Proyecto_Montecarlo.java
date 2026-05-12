@@ -24,6 +24,8 @@ double precision = (double) dentro / iteraciones * 4;
 
 System.out.println("El valor aproximado de precisión es: " + precision);
 
+System.out.println("Gracias por usar el programa");
+
 
 
 
