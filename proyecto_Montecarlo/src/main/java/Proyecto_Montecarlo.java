@@ -20,7 +20,10 @@ for (int i = 0; i < iteraciones; i++) {
         dentro++;
     }
 }
-double pi = (double) dentro / iteraciones * 4;
+double precision = (double) dentro / iteraciones * 4;
+
+System.out.println("El valor aproximado de precisión es: " + precision);
+
 
 
 
