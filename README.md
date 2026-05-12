@@ -1,2 +1,14 @@
 # Javeros
-Trabajo en equipo sobre el proyecto de Agueda de Integrales Definidas con el método de Montecarlo
+Trabajo en equipo sobre el proyecto de Agueda de Integrales Definidas con el método de MontecarloVAL
+
+
+
+#FUNCIONALIDAD
+
+##VALIDACIÓN
+
+V. 1.0.1
+
+EL PROGRAMA SOLICITA UN NÚMERO AL USUARIO. ESTE SERÁ INGRESADO USANDO EL TECLADO DEL EQUIPO. ESTE SERÁ
+EL NÚMERO DE ITERACIONES QUE HARA EL PROGRAMA A FIN DE ACERCARSE A UN NÚMERO MÁS PRECISO DEL ÁREA DE
+LA FIGURA QUE SE DA BAJO LA CURVA DE LA FUNCION F(X)
