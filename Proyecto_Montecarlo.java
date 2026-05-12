@@ -7,4 +7,7 @@ public class Proyecto_Montecarlo {
 Scanner sc = new Scanner(System.in);
 
 System.out.println("Ingrese el numero de iteraciones: ");
+
+
+        System.out.println("Miguel");
 }}
